@@ -42,7 +42,7 @@ This section breaks down each feature and explains the corresponding implementat
 
 ### Steps
 1. Clone the repository:
-    git clone https://github.com/Vikash-18088/Employee-Activity-Tracking-Agent.git
+    git clone https://github.com/Vikash-1808/Employee-Activity-Tracking-Agent.git
 
 2. Install dependencies:
     pip install -r requirements.txt
